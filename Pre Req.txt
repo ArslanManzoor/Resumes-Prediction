@@ -1,0 +1,26 @@
+1) pip install pymupdf spacy scikit-learn nltk
+2) create .py file past and run the below code 
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+
+
+3) Run below command  in Terminal or in .py file 
+python -m spacy download en_core_web_sm
+
+4) run in terminal 
+pip install pymupdf spacy scikit-learn nltk
+
+5) Create .py file past and then run 
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords')
+
+6)  Run ion terminal or .py file 
+python -m spacy download en_core_web_sm
+
+
+7) run it in terminal 
+pip install flask
+

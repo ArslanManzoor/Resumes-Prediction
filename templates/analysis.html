@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Analysis</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        .card {
+            margin: 10px 0;
+        }
+        .chart-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .chart {
+            width: 48%; /* Adjust as needed */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Resume Data Analysis</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Resumes</h5>
+                        <p class="card-text" id="totalResumes">0</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Males</h5>
+                        <p class="card-text" id="totalMales">0</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Females</h5>
+                        <p class="card-text" id="totalFemales">0</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <form id="analysisForm" class="mt-4">
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender" class="form-control">
+                        <option value="">Select Gender</option>
+                        {% for gender in genders %}
+                        <option value="{{ gender[0] }}">{{ gender[0] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="job_title">Job Title</label>
+                    <select id="job_title" name="job_title" class="form-control">
+                        <option value="">Select Job Title</option>
+                        {% for job_title in job_titles %}
+                        <option value="{{ job_title[0] }}">{{ job_title[0] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="country">Country</label>
+                    <select id="country" name="country" class="form-control">
+                        <option value="">Select Country</option>
+                        {% for country in countries %}
+                        <option value="{{ country[0] }}">{{ country[0] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </form>
+
+        <div class="chart-container">
+            <div class="chart">
+                <h4 class="text-center mb-4">Top 10 Countries by Resume Count</h4>
+                <div id="barChart" class="mt-3"></div>
+            </div>
+            <div class="chart">
+                <h4 class="text-center mb-4">Top 10 Job Titles by Gender</h4>
+                <div id="lineChart" class="mt-3"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Function to update graphs and card counts
+            function updateData() {
+                var gender = $('#gender').val();
+                var job_title = $('#job_title').val();
+                var country = $('#country').val();
+
+                // Update bar chart
+                $.ajax({
+                    type: 'POST',
+                    url: '/get_bar_data',
+                    data: {
+                        gender: gender,
+                        job_title: job_title,
+                        country: country
+                    },
+                    success: function(barJSON) {
+                        var barData = JSON.parse(barJSON);
+                        Plotly.newPlot('barChart', barData);
+                    },
+                    error: function(error) {
+                        console.log(error);
+                    }
+                });
+
+                // Update line chart
+                $.ajax({
+                    type: 'POST',
+                    url: '/get_line_data',
+                    data: {
+                        gender: gender,
+                        job_title: job_title,
+                        country: country
+                    },
+                    success: function(lineJSON) {
+                        var lineData = JSON.parse(lineJSON);
+                        Plotly.newPlot('lineChart', lineData);
+                    },
+                    error: function(error) {
+                        console.log(error);
+                    }
+                });
+
+                // Update card counts
+                $.ajax({
+                    type: 'GET',
+                    url: '/get_counts',
+                    data: {
+                        gender: gender,
+                        job_title: job_title,
+                        country: country
+                    },
+                    success: function(data) {
+                        $('#totalResumes').text(data.total_resumes);
+                        $('#totalMales').text(data.total_males);
+                        $('#totalFemales').text(data.total_females);
+                    },
+                    error: function(error) {
+                        console.log(error);
+                    }
+                });
+            }
+
+            // Update on page load
+            updateData();
+
+            // Update on dropdown change
+            $('#gender, #job_title, #country').change(function() {
+                updateData();
+            });
+        });
+    </script>
+</body>
+</html>

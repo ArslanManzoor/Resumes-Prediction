@@ -1,0 +1,5 @@
+software_engineer: software development, Python, Java, C++, algorithms, data structures, programming, software engineering, coding
+accountant: accounting, finance, bookkeeping, taxes, auditing, financial statements, CPA, financial reporting
+data_scientist: data analysis, machine learning, statistics, Python, R, SQL, data mining, data visualization, big data
+marketing_specialist: marketing, advertising, SEO, content creation, social media, market research, branding, digital marketing
+human_resources: recruiting, training, employee relations, HR policies, compliance, performance management, talent acquisition

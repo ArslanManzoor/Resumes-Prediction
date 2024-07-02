@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Job Field Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Your Resume</h1>
+        <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+            <input type="text" name="name" placeholder="Enter Name" required>
+            <input type="text" name="city" placeholder="Enter City Name" required>
+            <input type="text" name="country" placeholder="Enter Country Name" required>
+            <select name="age" required>
+                <option value="">Select Age</option>
+                {% for i in range(18, 81) %}
+                <option value="{{ i }}">{{ i }}</option>
+                {% endfor %}
+            </select>
+            <select name="gender" required>
+                <option value="">Select Gender</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select>
+            <input type="file" name="file" accept=".pdf" required>
+            <button  type="submit">Predict</button>
+        </form>
+        <form action="{{ url_for('show_results') }}" method="get">
+            <button type="submit">Show Results</button>
+        </form>
+
+        <div class="text-center mt-3">
+            <a href="{{ url_for('analysis') }}" class="btn btn-secondary">Analyze Data</a>
+        </div>
+    </div>
+</body>
+</html>

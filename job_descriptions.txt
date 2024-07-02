@@ -1,0 +1,480 @@
+software_engineer: software development, Python, Java, C++, algorithms, data structures, programming, software engineering, coding
+accountant: accounting, finance, bookkeeping, taxes, auditing, financial statements, CPA, financial reporting
+data_scientist: data analysis, machine learning, statistics, Python, R, SQL, data mining, data visualization, big data
+marketing_specialist: marketing, advertising, SEO, content creation, social media, market research, branding, digital marketing
+human_resources: recruiting, training, employee relations, HR policies, compliance, performance management, talent acquisition
+project_manager: project management, planning, scheduling, budgeting, risk management, team leadership, communication, problem-solving
+graphic_designer: graphic design, Adobe Creative Suite, Photoshop, Illustrator, creativity, typography, branding, visual communication
+web_developer: web development, HTML, CSS, JavaScript, PHP, MySQL, responsive design, frontend development, backend development
+sales_representative: sales, customer service, negotiation, communication, CRM, lead generation, closing deals, product knowledge
+network_administrator: network administration, networking, Cisco, Windows Server, troubleshooting, network security, LAN, WAN
+system_administrator: system administration, Windows, Linux, Unix, troubleshooting, IT support, server management, virtualization, cloud computing
+business_analyst: business analysis, requirements gathering, process improvement, data analysis, communication, documentation, problem-solving, project management
+teacher: teaching, lesson planning, classroom management, curriculum development, student assessment, educational technology, communication, subject expertise
+nurse: patient care, nursing, healthcare, medical knowledge, communication, empathy, patient assessment, medication administration
+customer_service_representative: customer service, communication, problem-solving, patience, conflict resolution, empathy, CRM, customer support
+mechanical_engineer: mechanical engineering, CAD, design, manufacturing, thermodynamics, materials science, problem-solving, project management
+civil_engineer: civil engineering, structural engineering, construction, project management, AutoCAD, surveying, geotechnical engineering, transportation engineering
+electrical_engineer: electrical engineering, circuit design, electronics, power systems, control systems, programming, PCB design, troubleshooting
+chemical_engineer: chemical engineering, process engineering, chemistry, lab skills, safety protocols, project management, problem-solving, data analysis
+quality_assurance_analyst: quality assurance, testing, software testing, test automation, defect tracking, test plans, troubleshooting, quality control
+financial_analyst: financial analysis, financial modeling, Excel, data analysis, budgeting, forecasting, financial reporting, investment analysis
+operations_manager: operations management, process improvement, team leadership, project management, budgeting, scheduling, supply chain management, quality control
+product_manager: product management, product development, market research, project management, user experience, product lifecycle, business strategy, communication
+legal_assistant: legal research, legal writing, document preparation, case management, legal software, client communication, filing, office administration
+paralegal: legal research, legal writing, document preparation, case management, litigation support, legal software, client communication, filing
+content_writer: content writing, SEO, research, editing, proofreading, creativity, grammar, storytelling, content management
+social_media_manager: social media, content creation, digital marketing, analytics, communication, branding, strategy, customer engagement
+UX/UI_designer: UX design, UI design, wireframing, prototyping, user research, usability testing, Adobe XD, Sketch, Figma
+database_administrator: database administration, SQL, Oracle, MySQL, database design, performance tuning, backups, troubleshooting, data security
+software_tester: software testing, test automation, manual testing, QA methodologies, defect tracking, test plans, scripting, problem-solving
+data_analyst: data analysis, Excel, SQL, data visualization, data cleaning, statistical analysis, Python, R, Tableau
+HR_specialist: HR policies, recruitment, employee relations, compliance, training, performance management, HR software, talent acquisition
+logistics_coordinator: logistics, supply chain management, inventory management, shipping, scheduling, customer service, problem-solving, coordination
+research_scientist: research, scientific method, data analysis, lab skills, writing, grant writing, project management, critical thinking
+medical_doctor: patient care, medical knowledge, diagnosis, treatment, surgery, communication, empathy, medical ethics, clinical skills
+dentist: dentistry, patient care, oral health, diagnosis, treatment, surgery, communication, empathy, dental procedures
+pharmacist: pharmacy, medication management, patient care, drug interactions, pharmaceutical knowledge, communication, inventory management, healthcare
+physiotherapist: physical therapy, patient care, rehabilitation, exercise therapy, anatomy, physiology, communication, empathy
+occupational_therapist: occupational therapy, patient care, rehabilitation, treatment planning, communication, empathy, documentation, therapy techniques
+veterinarian: veterinary medicine, animal care, diagnosis, treatment, surgery, communication, empathy, animal behavior
+architect: architecture, design, CAD, project management, building codes, construction, creativity, structural engineering
+interior_designer: interior design, creativity, space planning, CAD, color theory, project management, client communication, materials knowledge
+urban_planner: urban planning, zoning, GIS, community development, sustainability, project management, public policy
+event_planner: event planning, coordination, budgeting, scheduling, vendor management, communication, problem-solving, creativity
+real_estate_agent: real estate, property sales, client communication, negotiation, market knowledge, contracts, marketing, customer service
+insurance_agent: insurance, sales, customer service, communication, risk assessment, claims processing, negotiation, financial products
+loan_officer: loan processing, customer service, financial analysis, credit analysis, communication, sales, compliance, mortgage loans
+bank_teller: customer service, cash handling, financial transactions, communication, attention to detail, banking software, sales, problem-solving
+investment_banker: investment banking, financial analysis, mergers and acquisitions, financial modeling, client communication, negotiation, Excel, market research
+portfolio_manager: portfolio management, investment analysis, financial analysis, asset allocation, risk management, client communication, market research, Excel
+financial_planner: financial planning, investment advice, retirement planning, client communication, budgeting, financial analysis, tax planning, financial products
+personal_trainer: fitness, exercise programming, client communication, motivation, anatomy, physiology, nutrition, personal training certification
+nutritionist: nutrition, diet planning, client communication, health education, meal planning, wellness, dietary analysis, clinical nutrition
+chef: cooking, culinary skills, kitchen management, menu planning, food safety, creativity, time management, leadership
+restaurant_manager: restaurant management, customer service, staff management, scheduling, budgeting, inventory management, marketing, problem-solving
+bartender: bartending, customer service, drink preparation, cash handling, communication, multitasking, knowledge of beverages, cleanliness
+waiter: customer service, communication, multitasking, attention to detail, teamwork, knowledge of menu, order taking, problem-solving
+housekeeper: cleaning, attention to detail, time management, customer service, teamwork, organization, problem-solving, reliability
+security_guard: security, surveillance, communication, emergency response, attention to detail, physical fitness, report writing, conflict resolution
+police_officer: law enforcement, public safety, communication, physical fitness, investigation, emergency response, report writing, conflict resolution
+firefighter: firefighting, emergency response, physical fitness, teamwork, communication, medical training, problem-solving, fire safety
+paramedic: emergency medical care, patient care, medical knowledge, communication, empathy, physical fitness, critical thinking, medical equipment
+pilot: piloting, aviation, communication, navigation, safety protocols, problem-solving, teamwork, attention to detail
+flight_attendant: customer service, safety protocols, communication, problem-solving, teamwork, multitasking, emergency response, hospitality
+travel_agent: travel planning, customer service, communication, sales, knowledge of destinations, booking systems, problem-solving, attention to detail
+tour_guide: tour guiding, customer service, communication, knowledge of history, knowledge of local area, public speaking, problem-solving, storytelling
+translator: translation, language skills, communication, cultural knowledge, writing, editing, attention to detail, research
+interpreter: interpreting, language skills, communication, cultural knowledge, public speaking, listening, problem-solving, confidentiality
+librarian: library science, cataloging, research, customer service, information management, organization, communication, digital literacy
+teacher_assistant: classroom support, communication, child development, patience, organization, instructional support, classroom management, teamwork
+school_principal: educational leadership, administration, communication, curriculum development, school management, staff supervision, budgeting, problem-solving
+guidance_counselor: counseling, communication, empathy, problem-solving, student support, career guidance, mental health knowledge, confidentiality
+professor: teaching, research, academic writing, communication, subject expertise, curriculum development, student assessment, mentorship
+lecturer: teaching, public speaking, subject expertise, communication, curriculum development, student engagement, research, academic writing
+research_assistant: research, data analysis, lab skills, writing, literature review, critical thinking, project management, communication
+scientist: scientific research, data analysis, lab skills, critical thinking, writing, problem-solving, project management, scientific method
+biologist: biology, lab skills, research, data analysis, critical thinking, fieldwork, writing, microscopy
+chemist: chemistry, lab skills, research, chemical analysis, critical thinking, safety protocols, instrumentation
+physicist: physics, research, data analysis, critical thinking, mathematical modeling, writing, problem-solving, laboratory skills
+astronomer: astronomy, research, data analysis, mathematical modeling, telescope operation, critical thinking, writing, programming
+geologist: geology, fieldwork, research, data analysis, GIS, critical thinking, writing, mapping
+meteorologist: meteorology, weather forecasting, data analysis, communication, research, critical thinking, programming, instrumentation
+ecologist: ecology, fieldwork, research, data analysis, critical thinking, GIS, writing, environmental science
+marine_biologist: marine biology, fieldwork, research, data analysis, diving, writing, marine ecosystems, lab skills
+zoologist: zoology, animal behavior, research, data analysis, fieldwork, writing, lab skills, critical thinking
+wildlife_biologist: wildlife biology, fieldwork, research, data analysis, animal behavior, writing, critical thinking, GIS
+environmental_scientist: environmental science, research, data analysis, critical thinking, writing, fieldwork, environmental regulations, GIS
+chemist: chemistry, lab skills, research, chemical analysis, data analysis, critical thinking, safety protocols, instrumentation
+pharmacologist: pharmacology, research, lab skills, data analysis, drug development, critical thinking, safety protocols, writing
+biochemist: biochemistry, lab skills, research, molecular biology, data analysis, critical thinking, writing, instrumentation
+geneticist: genetics, lab skills, research, molecular biology, data analysis, critical thinking, writing, bioinformatics
+microbiologist: microbiology, lab skills, research, data analysis, critical thinking, molecular biology, writing, safety protocols
+biomedical_engineer: biomedical engineering, research, medical devices, data analysis, lab skills, critical thinking, problem-solving, instrumentation
+neuroscientist: neuroscience, research, data analysis, lab skills, critical thinking, writing, neuroimaging, programming
+toxicologist: toxicology, research, data analysis, lab skills, critical thinking, safety protocols, writing, chemical analysis
+epidemiologist: epidemiology, public health, research, data analysis, statistics, critical thinking, writing, study design
+public_health_specialist: public health, research, data analysis, health education, communication, critical thinking, writing, policy development
+healthcare_administrator: healthcare administration, management, budgeting, healthcare regulations, communication, leadership, problem-solving, healthcare systems
+medical_technologist: medical technology, lab skills, research, data analysis, instrumentation, critical thinking, safety protocols, communication
+sonographer: sonography, patient care, imaging techniques, medical knowledge, communication, critical thinking, problem-solving, equipment operation
+speech_therapist: speech therapy, patient care, communication, speech disorders, treatment planning, critical thinking, empathy, documentation
+respiratory_therapist: respiratory therapy, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy, medical equipment
+radiation_therapist: radiation therapy, patient care, radiation safety, medical knowledge, communication, critical thinking, problem-solving, empathy
+anesthesiologist: anesthesiology, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy, anesthesia administration
+surgeon: surgery, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy, surgical techniques
+psychiatrist: psychiatry, patient care, mental health, communication, critical thinking, problem-solving, empathy, medication management
+psychologist: psychology, patient care, mental health, communication, critical thinking, problem-solving, empathy, therapy techniques
+social_worker: social work, case management, communication, empathy, problem-solving, client advocacy, documentation, counseling
+counselor: counseling, communication, empathy, problem-solving, mental health, client support, therapy techniques, confidentiality
+therapist: therapy, patient care, communication, empathy, problem-solving, mental health, treatment planning, therapy techniques
+dietitian: dietetics, nutrition, patient care, meal planning, health education, communication, critical thinking, empathy
+optometrist: optometry, patient care, eye exams, vision correction, communication, critical thinking, problem-solving, empathy
+chiropractor: chiropractic, patient care, communication, critical thinking, problem-solving, empathy, spinal manipulation
+podiatrist: podiatry, patient care, foot care, medical knowledge, communication, critical thinking, problem-solving, empathy
+dermatologist: dermatology, patient care, skin care, medical knowledge, communication, critical thinking, problem-solving, empathy
+ophthalmologist: ophthalmology, patient care, eye care, medical knowledge, communication, critical thinking, problem-solving, empathy
+urologist: urology, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy, surgery
+cardiologist: cardiology, patient care, heart care, medical knowledge, communication, critical thinking, problem-solving, empathy
+gastroenterologist: gastroenterology, patient care, digestive health, medical knowledge, communication, critical thinking, problem-solving, empathy
+oncologist: oncology, patient care, cancer treatment, medical knowledge, communication, critical thinking, problem-solving, empathy
+endocrinologist: endocrinology, patient care, hormonal health, medical knowledge, communication, critical thinking, problem-solving, empathy
+pediatrician: pediatrics, patient care, child health, medical knowledge, communication, critical thinking, problem-solving, empathy
+geriatrician: geriatrics, patient care, elderly health, medical knowledge, communication, critical thinking, problem-solving, empathy
+family_physician: family medicine, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy
+general_practitioner: general practice, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy
+internist: internal medicine, patient care, medical knowledge, communication, critical thinking, problem-solving, empathy
+pathologist: pathology, lab skills, research, data analysis, medical knowledge, communication, critical thinking, problem-solving
+radiologist: radiology, patient care, imaging techniques, medical knowledge, communication, critical thinking, problem-solving, empathy
+orthopedic_surgeon: orthopedic surgery, patient care, musculoskeletal health, medical knowledge, communication, critical thinking, problem-solving, empathy
+neurosurgeon: neurosurgery, patient care, nervous system health, medical knowledge, communication, critical thinking, problem-solving, empathy
+plastic_surgeon: plastic surgery, patient care, cosmetic procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+cosmetic_surgeon: cosmetic surgery, patient care, aesthetic procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+oral_surgeon: oral surgery, patient care, dental procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+maxillofacial_surgeon: maxillofacial surgery, patient care, facial procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+orthodontist: orthodontics, patient care, dental procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+prosthodontist: prosthodontics, patient care, dental procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+endodontist: endodontics, patient care, dental procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+periodontist: periodontics, patient care, dental procedures, medical knowledge, communication, critical thinking, problem-solving, empathy
+pediatric_dentist: pediatric dentistry, patient care, child dental health, medical knowledge, communication, critical thinking, problem-solving, empathy
+veterinary_technician: veterinary technology, animal care, lab skills, communication, critical thinking, problem-solving, empathy, medical knowledge
+animal_caretaker: animal care, communication, empathy, problem-solving, animal behavior, attention to detail, physical fitness, animal health
+zookeeper: animal care, communication, empathy, problem-solving, animal behavior, attention to detail, physical fitness, animal health
+wildlife_rehabilitator: wildlife rehabilitation, animal care, communication, empathy, problem-solving, animal behavior, attention to detail, physical fitness
+conservationist: conservation, environmental science, research, fieldwork, communication, critical thinking, problem-solving, sustainability
+forester: forestry, environmental science, fieldwork, communication, critical thinking, problem-solving, sustainability, land management
+park_ranger: park management, communication, public safety, environmental science, fieldwork, problem-solving, public education, law enforcement
+marine_conservationist: marine conservation, marine biology, research, fieldwork, communication, critical thinking, problem-solving, sustainability
+fisheries_biologist: fisheries biology, research, fieldwork, data analysis, communication, critical thinking, problem-solving, sustainability
+aquatic_biologist: aquatic biology, research, fieldwork, data analysis, communication, critical thinking, problem-solving, sustainability
+horticulturist: horticulture, plant care, research, fieldwork, communication, critical thinking, problem-solving, sustainability
+landscape_architect: landscape architecture, design, creativity, CAD, project management, communication, problem-solving, horticulture
+landscaper: landscaping, plant care, physical fitness, attention to detail, communication, problem-solving, creativity, horticulture
+gardener: gardening, plant care, physical fitness, attention to detail, communication, problem-solving, creativity, horticulture
+arborist: arboriculture, tree care, physical fitness, attention to detail, communication, problem-solving, safety protocols, horticulture
+florist: floral design, creativity, customer service, communication, attention to detail, problem-solving, plant care, sales
+agricultural_scientist: agricultural science, research, data analysis, fieldwork, communication, critical thinking, problem-solving, sustainability
+farm_manager: farm management, agricultural science, physical fitness, communication, problem-solving, budgeting, crop management, livestock management
+ranch_manager: ranch management, livestock care, physical fitness, communication, problem-solving, budgeting, agricultural science, farm management
+veterinary_assistant: animal care, communication, empathy, problem-solving, physical fitness, attention to detail, animal behavior, veterinary knowledge
+agricultural_technician: agricultural technology, research, fieldwork, data analysis, communication, critical thinking, problem-solving, sustainability
+food_scientist: food science, research, data analysis, lab skills, communication, critical thinking, problem-solving, safety protocols
+nutrition_scientist: nutrition science, research, data analysis, lab skills, communication, critical thinking, problem-solving, health education
+dietetic_technician: dietetics, nutrition, patient care, communication, health education, critical thinking, empathy, meal planning
+food_service_manager: food service management, customer service, staff management, scheduling, budgeting, communication, problem-solving, safety protocols
+chef_de_cuisine: culinary skills, kitchen management, menu planning, food safety, creativity, time management, leadership, cooking
+pastry_chef: pastry making, baking, culinary skills, creativity, attention to detail, kitchen management, time management, food safety
+sous_chef: culinary skills, kitchen management, staff supervision, food safety, creativity, time management, leadership, cooking
+line_cook: cooking, culinary skills, food preparation, attention to detail, time management, teamwork, communication, food safety
+prep_cook: food preparation, culinary skills, attention to detail, time management, teamwork, communication, food safety, cooking
+banquet_manager: event planning, customer service, staff management, scheduling, budgeting, communication, problem-solving, coordination
+catering_manager: event planning, customer service, staff management, scheduling, budgeting, communication, problem-solving, coordination
+food_and_beverage_manager: food service management, customer service, staff management, scheduling, budgeting, communication, problem-solving, safety protocols
+maître_d: customer service, staff supervision, communication, problem-solving, coordination, attention to detail, hospitality, restaurant management
+sommelier: wine knowledge, customer service, communication, attention to detail, sales, hospitality, food pairing, inventory management
+barista: customer service, drink preparation, cash handling, communication, multitasking, knowledge of beverages, cleanliness, teamwork
+brewery_manager: brewery management, brewing, staff supervision, scheduling, budgeting, communication, problem-solving, safety protocols
+brewmaster: brewing, beer production, creativity, attention to detail, staff supervision, time management, communication, problem-solving
+distillery_manager: distillery management, distillation, staff supervision, scheduling, budgeting, communication, problem-solving, safety protocols
+winemaker: winemaking, viticulture, creativity, attention to detail, staff supervision, time management, communication, problem-solving
+viticulturist: viticulture, plant care, fieldwork, communication, critical thinking, problem-solving, sustainability, agricultural science
+beverage_director: beverage management, customer service, staff supervision, inventory management, scheduling, budgeting, communication, problem-solving
+food_critic: food writing, culinary knowledge, communication, critical thinking, attention to detail, creativity, food tasting, research
+restaurant_critic: restaurant reviewing, culinary knowledge, communication, critical thinking, attention to detail, creativity, customer service, research
+food_writer: food writing, culinary knowledge, communication, critical thinking, attention to detail, creativity, research, storytelling
+restaurant_owner: restaurant management, customer service, staff supervision, budgeting, scheduling, communication, problem-solving, marketing
+franchise_owner: franchise management, business operations, customer service, staff supervision, budgeting, scheduling, communication, problem-solving
+bar_manager: bar management, customer service, staff supervision, inventory management, scheduling, budgeting, communication, problem-solving
+club_manager: club management, customer service, staff supervision, event planning, scheduling, budgeting, communication, problem-solving
+casino_manager: casino management, customer service, staff supervision, gaming operations, scheduling, budgeting, communication, problem-solving
+hotel_manager: hotel management, customer service, staff supervision, scheduling, budgeting, communication, problem-solving, hospitality
+resort_manager: resort management, customer service, staff supervision, event planning, scheduling, budgeting, communication, problem-solving
+spa_manager: spa management, customer service, staff supervision, scheduling, budgeting, communication, problem-solving, hospitality
+bed_and_breakfast_owner: B&B management, customer service, staff supervision, scheduling, budgeting, communication, problem-solving, hospitality
+concierge: customer service, communication, problem-solving, multitasking, attention to detail, hospitality, knowledge of local area, coordination
+housekeeping_supervisor: housekeeping management, staff supervision, scheduling, attention to detail, customer service, communication, problem-solving, cleanliness
+maintenance_manager: maintenance management, staff supervision, scheduling, problem-solving, communication, budgeting, attention to detail, safety protocols
+facility_manager: facility management, staff supervision, scheduling, budgeting, problem-solving, communication, attention to detail, safety protocols
+building_superintendent: building maintenance, staff supervision, problem-solving, communication, attention to detail, safety protocols, scheduling, budgeting
+property_manager: property management, customer service, communication, problem-solving, budgeting, scheduling, attention to detail, property maintenance
+leasing_agent: leasing, customer service, communication, sales, negotiation, problem-solving, property knowledge, attention to detail
+real_estate_appraiser: real estate appraisal, market analysis, communication, attention to detail, property valuation, problem-solving, research, negotiation
+home_inspector: home inspection, property knowledge, communication, attention to detail, problem-solving, safety protocols, report writing, customer service
+mortgage_broker: mortgage lending, customer service, communication, sales, negotiation, financial analysis, problem-solving, mortgage products
+construction_manager: construction management, project management, budgeting, scheduling, communication, problem-solving, safety protocols, building codes
+general_contractor: construction, project management, budgeting, scheduling, communication, problem-solving, safety protocols, building codes
+carpenter: carpentry, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, woodworking
+electrician: electrical work, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, electrical systems
+plumber: plumbing, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, plumbing systems
+HVAC_technician: HVAC, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, HVAC systems
+painter: painting, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, color matching
+roofer: roofing, construction, physical fitness, attention to detail, problem-solving, communication, safety protocols, roofing materials
+landscaper: landscaping, physical fitness, attention to detail, problem-solving, communication, safety protocols, plant care, lawn care
+groundskeeper: groundskeeping, physical fitness, attention to detail, problem-solving, communication, safety protocols, landscaping, lawn care
+janitor: cleaning, physical fitness, attention to detail, problem-solving, communication, safety protocols, maintenance, organization
+custodian: cleaning, physical fitness, attention to detail, problem-solving, communication, safety protocols, maintenance, organization
+warehouse_manager: warehouse management, staff supervision, inventory management, scheduling, budgeting, communication, problem-solving, safety protocols
+logistics_manager: logistics management, staff supervision, supply chain management, scheduling, budgeting, communication, problem-solving, safety protocols
+supply_chain_manager: supply chain management, staff supervision, inventory management, scheduling, budgeting, communication, problem-solving, logistics
+procurement_manager: procurement, supply chain management, negotiation, budgeting, communication, problem-solving, vendor management, inventory management
+purchasing_agent: purchasing, negotiation, budgeting, communication, problem-solving, vendor management, inventory management, supply chain management
+buyer: buying, negotiation, budgeting, communication, problem-solving, vendor management, inventory management, supply chain management
+warehouse_worker: warehouse operations, physical fitness, attention to detail, problem-solving, communication, safety protocols, inventory management, teamwork
+delivery_driver: delivery, driving, physical fitness, attention to detail, problem-solving, communication, customer service, route planning
+truck_driver: trucking, driving, physical fitness, attention to detail, problem-solving, communication, customer service, route planning
+bus_driver: bus driving, customer service, driving, communication, problem-solving, attention to detail, safety protocols, route planning
+taxi_driver: taxi driving, customer service, driving, communication, problem-solving, attention to detail, safety protocols, knowledge of local area
+rideshare_driver: ridesharing, customer service, driving, communication, problem-solving, attention to detail, safety protocols, knowledge of local area
+chauffeur: driving, customer service, communication, problem-solving, attention to detail, safety protocols, knowledge of local area, professionalism
+pilot: piloting, aviation, communication, navigation, safety protocols, problem-solving, teamwork, attention to detail
+flight_attendant: customer service, safety protocols, communication, problem-solving, teamwork, multitasking, emergency response, hospitality
+air_traffic_controller: air traffic control, communication, problem-solving, attention to detail, safety protocols, aviation knowledge, multitasking, critical thinking
+airport_manager: airport management, staff supervision, scheduling, budgeting, communication, problem-solving, safety protocols, customer service
+railroad_conductor: train operations, customer service, communication, problem-solving, attention to detail, safety protocols, teamwork, scheduling
+train_operator: train operations, communication, problem-solving, attention to detail, safety protocols, teamwork, scheduling, technical skills
+subway_operator: subway operations, communication, problem-solving, attention to detail, safety protocols, teamwork, scheduling, technical skills
+tram_operator: tram operations, communication, problem-solving, attention to detail, safety protocols, teamwork, scheduling, technical skills
+ferry_operator: ferry operations, communication, problem-solving, attention to detail, safety protocols, teamwork, scheduling, technical skills
+marine_engineer: marine engineering, problem-solving, communication, attention to detail, safety protocols, teamwork, technical skills, navigation
+ship_captain: ship operations, navigation, communication, problem-solving, attention to detail, safety protocols, leadership, maritime knowledge
+deckhand: maritime operations, physical fitness, communication, problem-solving, attention to detail, safety protocols, teamwork, maintenance
+port_manager: port management, staff supervision, scheduling, budgeting, communication, problem-solving, safety protocols, logistics
+cruise_director: cruise management, customer service, staff supervision, event planning, scheduling, communication, problem-solving, hospitality
+ship_steward: customer service, communication, problem-solving, attention to detail, safety protocols, hospitality, teamwork, ship maintenance
+longshoreman: physical fitness, attention to detail, problem-solving, communication, safety protocols, teamwork, cargo handling, maritime operations
+dock_worker: physical fitness, attention to detail, problem-solving, communication, safety protocols, teamwork, cargo handling, maritime operations
+fisherman: fishing, physical fitness, attention to detail, problem-solving, communication, safety protocols, teamwork, maritime operations
+aquaculture_worker: aquaculture, physical fitness, attention to detail, problem-solving, communication, safety protocols, teamwork, fish farming
+commercial_diver: diving, physical fitness, attention to detail, problem-solving, communication, safety protocols, maritime operations, technical skills
+underwater_welder: welding, diving, physical fitness, attention to detail, problem-solving, communication, safety protocols, maritime operations, technical skills
+civil_engineer: civil engineering, problem-solving, communication, attention to detail, project management, safety protocols, technical skills, construction
+structural_engineer: structural engineering, problem-solving, communication, attention to detail, project management, safety protocols, technical skills, construction
+urban_planner: urban planning, communication, problem-solving, attention to detail, project management, technical skills, land use, zoning
+landscape_architect: landscape architecture, communication, problem-solving, attention to detail, project management, technical skills, creativity, sustainability
+architect: architecture, communication, problem-solving, attention to detail, project management, technical skills, creativity, CAD
+interior_designer: interior design, communication, problem-solving, attention to detail, project management, technical skills, creativity, CAD
+industrial_designer: industrial design, communication, problem-solving, attention to detail, project management, technical skills, creativity, CAD
+graphic_designer: graphic design, communication, problem-solving, attention to detail, creativity, technical skills, software proficiency, design principles
+web_designer: web design, communication, problem-solving, attention to detail, creativity, technical skills, software proficiency, UX/UI design
+UX_UI_designer: UX/UI design, communication, problem-solving, attention to detail, creativity, technical skills, software proficiency, user research
+software_engineer: software development, communication, problem-solving, attention to detail, technical skills, programming, software proficiency, project management
+game_developer: game development, communication, problem-solving, attention to detail, creativity, technical skills, programming, software proficiency, storytelling
+mobile_app_developer: mobile app development, communication, problem-solving, attention to detail, technical skills, programming, software proficiency, UX/UI design
+data_scientist: data analysis, communication, problem-solving, attention to detail, technical skills, programming, statistical analysis, research
+machine_learning_engineer: machine learning, communication, problem-solving, attention to detail, technical skills, programming, data analysis, research
+artificial_intelligence_engineer: artificial intelligence, communication, problem-solving, attention to detail, technical skills, programming, data analysis, research
+cybersecurity_analyst: cybersecurity, communication, problem-solving, attention to detail, technical skills, programming, network security, threat analysis
+network_administrator: network administration, communication, problem-solving, attention to detail, technical skills, programming, network security, troubleshooting
+systems_administrator: systems administration, communication, problem-solving, attention to detail, technical skills, programming, network security, troubleshooting
+database_administrator: database administration, communication, problem-solving, attention to detail, technical skills, programming, data management, troubleshooting
+IT_support_specialist: IT support, communication, problem-solving, attention to detail, technical skills, programming, troubleshooting, customer service
+IT_project_manager: IT project management, communication, problem-solving, attention to detail, technical skills, software development, budgeting, scheduling
+cloud_computing_engineer: cloud computing, communication, problem-solving, attention to detail, technical skills, programming, network security, data management
+blockchain_developer: blockchain, communication, problem-solving, attention to detail, technical skills, programming, data management, cryptography
+software_tester: software testing, communication, problem-solving, attention to detail, technical skills, programming, software development, quality assurance
+quality_assurance_engineer: quality assurance, communication, problem-solving, attention to detail, technical skills, programming, software development, testing
+IT_consultant: IT consulting, communication, problem-solving, attention to detail, technical skills, programming, software development, customer service
+IT_auditor: IT auditing, communication, problem-solving, attention to detail, technical skills, programming, network security, risk assessment
+business_analyst: business analysis, communication, problem-solving, attention to detail, technical skills, data analysis, research, project management
+product_manager: product management, communication, problem-solving, attention to detail, technical skills, software development, project management, marketing
+project_manager: project management, communication, problem-solving, attention to detail, technical skills, budgeting, scheduling, leadership
+operations_manager: operations management, communication, problem-solving, attention to detail, technical skills, logistics, scheduling, budgeting
+financial_analyst: financial analysis, communication, problem-solving, attention to detail, technical skills, data analysis, research, budgeting
+accountant: accounting, communication, problem-solving, attention to detail, technical skills, data analysis, research, budgeting, financial reporting
+auditor: auditing, communication, problem-solving, attention to detail, technical skills, data analysis, research, risk assessment
+tax_preparer: tax preparation, communication, problem-solving, attention to detail, technical skills, data analysis, research, financial reporting
+financial_advisor: financial advising, communication, problem-solving, attention to detail, technical skills, data analysis, research, investment strategies
+investment_banker: investment banking, communication, problem-solving, attention to detail, technical skills, data analysis, research, financial markets
+loan_officer: loan processing, communication, problem-solving, attention to detail, technical skills, customer service, financial analysis
+bank_teller: banking, communication, problem-solving, attention to detail, customer service, cash handling, sales, financial transactions
+insurance_agent: insurance sales, communication, problem-solving, attention to detail, customer service, risk assessment, negotiation, financial analysis
+insurance_underwriter: insurance underwriting, communication, problem-solving, attention to detail, data analysis, risk assessment, financial analysis
+actuary: actuarial science, communication, problem-solving, attention to detail, data analysis, risk assessment, financial analysis, research
+claims_adjuster: claims adjustment, communication, problem-solving, attention to detail, customer service, data analysis, financial analysis, negotiation
+real_estate_agent: real estate sales, communication, problem-solving, attention to detail, customer service, negotiation, property knowledge, marketing
+property_appraiser: property appraisal, communication, problem-solving, attention to detail, data analysis, market research, property valuation
+property_manager: property management, communication, problem-solving, attention to detail, customer service, budgeting, scheduling, maintenance
+building_inspector: building inspection, communication, problem-solving, attention to detail, safety protocols, construction knowledge, report writing
+construction_manager: construction management, communication, problem-solving, attention to detail, project management, budgeting, scheduling, safety protocols
+civil_engineer: civil engineering, communication, problem-solving, attention to detail, project management, technical skills, construction knowledge
+architect: architecture, communication, problem-solving, attention to detail, project management, technical skills, design, creativity
+landscape_architect: landscape architecture, communication, problem-solving, attention to detail, project management, design, creativity, sustainability
+urban_planner: urban planning, communication, problem-solving, attention to detail, project management, design, land use, zoning
+environmental_scientist: environmental science, communication, problem-solving, attention to detail, research, sustainability, fieldwork, data analysis
+geologist: geology, communication, problem-solving, attention to detail, research, fieldwork, data analysis, mapping
+hydrologist: hydrology, communication, problem-solving, attention to detail, research, fieldwork, data analysis, water management
+meteorologist: meteorology, communication, problem-solving, attention to detail, research, data analysis, weather forecasting, fieldwork
+biologist: biology, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+microbiologist: microbiology, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+geneticist: genetics, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+biochemist: biochemistry, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+biophysicist: biophysics, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+chemist: chemistry, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+material_scientist: materials science, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+physicist: physics, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+astronomer: astronomy, communication, problem-solving, attention to detail, research, data analysis, lab work, fieldwork
+mathematician: mathematics, communication, problem-solving, attention to detail, research, data analysis, modeling, computation
+statistician: statistics, communication, problem-solving, attention to detail, research, data analysis, modeling, computation
+economist: economics, communication, problem-solving, attention to detail, research, data analysis, modeling, computation
+sociologist: sociology, communication, problem-solving, attention to detail, research, data analysis, fieldwork, interview techniques
+anthropologist: anthropology, communication, problem-solving, attention to detail, research, data analysis, fieldwork, interview techniques
+psychologist: psychology, communication, problem-solving, attention to detail, research, data analysis, therapy, counseling
+psychiatrist: psychiatry, communication, problem-solving, attention to detail, research, data analysis, therapy, medical knowledge
+social_worker: social work, communication, problem-solving, attention to detail, empathy, counseling, case management, advocacy
+counselor: counseling, communication, problem-solving, attention to detail, empathy, therapy, case management, advocacy
+therapist: therapy, communication, problem-solving, attention to detail, empathy, counseling, case management, advocacy
+nurse: nursing, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+physician: medicine, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+surgeon: surgery, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+pharmacist: pharmacy, communication, problem-solving, attention to detail, medical knowledge, patient care, critical thinking, drug knowledge
+physical_therapist: physical therapy, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+occupational_therapist: occupational therapy, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+speech_language_pathologist: speech therapy, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+dietitian: dietetics, communication, problem-solving, attention to detail, empathy, patient care, nutrition knowledge, critical thinking
+nutritionist: nutrition, communication, problem-solving, attention to detail, empathy, patient care, nutrition knowledge, critical thinking
+optometrist: optometry, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+dentist: dentistry, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+dental_hygienist: dental hygiene, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, critical thinking
+veterinarian: veterinary medicine, communication, problem-solving, attention to detail, empathy, animal care, medical knowledge, critical thinking
+veterinary_technician: veterinary technology, communication, problem-solving, attention to detail, empathy, animal care, medical knowledge, critical thinking
+public_health_worker: public health, communication, problem-solving, attention to detail, research, data analysis, health education, advocacy
+health_educator: health education, communication, problem-solving, attention to detail, empathy, patient care, medical knowledge, advocacy
+medical_researcher: medical research, communication, problem-solving, attention to detail, research, data analysis, lab work, medical knowledge
+clinical_trial_manager: clinical trials, communication, problem-solving, attention to detail, research, data analysis, project management, medical knowledge
+pharmaceutical_researcher: pharmaceutical research, communication, problem-solving, attention to detail, research, data analysis, lab work, medical knowledge
+biomedical_engineer: biomedical engineering, communication, problem-solving, attention to detail, research, data analysis, medical knowledge, technical skills
+healthcare_administrator: healthcare administration, communication, problem-solving, attention to detail, leadership, management, medical knowledge, budgeting
+hospital_administrator: hospital administration, communication, problem-solving, attention to detail, leadership, management, medical knowledge, budgeting
+nursing_home_administrator: nursing home administration, communication, problem-solving, attention to detail, leadership, management, medical knowledge, budgeting
+clinic_manager: clinic management, communication, problem-solving, attention to detail, leadership, management, medical knowledge, scheduling
+pharmacy_manager: pharmacy management, communication, problem-solving, attention to detail, leadership, management, medical knowledge, scheduling
+laboratory_manager: laboratory management, communication, problem-solving, attention to detail, leadership, research, data analysis, scheduling
+paramedic: paramedicine, communication, problem-solving, attention to detail, physical fitness, patient care, medical knowledge, critical thinking
+firefighter: firefighting, communication, problem-solving, attention to detail, physical fitness, emergency response, teamwork, safety protocols
+police_officer: law enforcement, communication, problem-solving, attention to detail, physical fitness, emergency response, teamwork, safety protocols
+corrections_officer: corrections, communication, problem-solving, attention to detail, physical fitness, emergency response, teamwork, safety protocols
+security_guard: security, communication, problem-solving, attention to detail, physical fitness, emergency response, teamwork, safety protocols
+detective: investigations, communication, problem-solving, attention to detail, physical fitness, law enforcement, critical thinking, research
+criminal_investigator: criminal investigations, communication, problem-solving, attention to detail, physical fitness, law enforcement, critical thinking, research
+forensic_scientist: forensic science, communication, problem-solving, attention to detail, research, data analysis, lab work, critical thinking
+probation_officer: probation, communication, problem-solving, attention to detail, empathy, case management, law enforcement, counseling
+parole_officer: parole, communication, problem-solving, attention to detail, empathy, case management, law enforcement, counseling
+border_patrol_agent: border security, communication, problem-solving, attention to detail, physical fitness, law enforcement, teamwork, safety protocols
+customs_agent: customs enforcement, communication, problem-solving, attention to detail, physical fitness, law enforcement, teamwork, safety protocols
+immigration_officer: immigration enforcement, communication, problem-solving, attention to detail, physical fitness, law enforcement, teamwork, safety protocols
+coroner: pathology, communication, problem-solving, attention to detail, research, data analysis, law enforcement, medical knowledge
+medical_examiner: pathology, communication, problem-solving, attention to detail, research, data analysis, law enforcement, medical knowledge
+emergency_dispatcher: emergency response, communication, problem-solving, attention to detail, multitasking, customer service, law enforcement, coordination
+paramedic_instructor: paramedic training, communication, problem-solving, attention to detail, teaching, emergency response, medical knowledge, critical thinking
+firefighting_instructor: firefighting training, communication, problem-solving, attention to detail, teaching, emergency response, safety protocols, critical thinking
+police_instructor: law enforcement training, communication, problem-solving, attention to detail, teaching, emergency response, safety protocols, critical thinking
+military_officer: military leadership, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_enlisted: military service, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, strategy
+military_pilot: aviation, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_technician: military technology, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_intelligence_officer: intelligence, communication, problem-solving, attention to detail, physical fitness, strategy, research, analysis
+military_police: law enforcement, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, strategy
+military_engineer: military engineering, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_medic: military medicine, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, medical knowledge
+military_logistics: military logistics, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, strategy
+military_transportation: military transportation, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, logistics
+military_supply_chain: military supply chain, communication, problem-solving, attention to detail, physical fitness, teamwork, safety protocols, logistics
+military_public_affairs: public relations, communication, problem-solving, attention to detail, strategy, teamwork, media relations, military knowledge
+military_linguist: linguistics, communication, problem-solving, attention to detail, language skills, teamwork, strategy, translation
+military_intelligence_analyst: intelligence analysis, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_interrogator: interrogation, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_drone_operator: drone operation, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_weapons_specialist: weapons expertise, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_explosive_ordnance_disposal: EOD, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_tactician: strategy, communication, problem-solving, attention to detail, leadership, teamwork, safety protocols, military knowledge
+military_trainer: military training, communication, problem-solving, attention to detail, teaching, strategy, teamwork, safety protocols
+military_recruiter: military recruitment, communication, problem-solving, attention to detail, strategy, teamwork, public relations
+military_scout: reconnaissance, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_sapper: military engineering, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_ranger: special operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_infantry: combat operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_artillery: artillery operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_armor: armored warfare, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_cavalry: reconnaissance, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_air_defense: air defense, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_signal_corps: communications, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_intelligence_corps: intelligence, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_medical_corps: medical knowledge, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_logistics_corps: logistics, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_engineering_corps: engineering, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_police_corps: law enforcement, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_signal_officer: communications, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_intelligence_officer: intelligence, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_medical_officer: medical knowledge, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_logistics_officer: logistics, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_engineering_officer: engineering, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_police_officer: law enforcement, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_air_force_officer: aviation, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_naval_officer: naval operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_coast_guard_officer: maritime operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_marines_officer: combat operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_space_operations: space operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_special_operations: special operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_cyber_operations: cyber operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_space_command: space operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_judge_advocate: military law, communication, problem-solving, attention to detail, legal knowledge, strategy, teamwork, research
+military_chaplain: pastoral care, communication, problem-solving, attention to detail, empathy, counseling, spiritual guidance, teamwork
+military_combat_medic: combat medicine, communication, problem-solving, attention to detail, physical fitness, medical knowledge, teamwork, safety protocols
+military_combat_engineer: combat engineering, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_signal: combat communications, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_intelligence: combat intelligence, communication, problem-solving, attention to detail, physical fitness, research, data analysis, teamwork
+military_combat_armor: armored warfare, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_artillery: artillery operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_air_defense: air defense, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_infantry: combat operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_marines: combat operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_ranger: special operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_sapper: combat engineering, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_scout: reconnaissance, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_space: space operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_cyber: cyber operations, communication, problem-solving, attention to detail, physical fitness, technical skills, teamwork, safety protocols
+military_combat_commander: command, communication, problem-solving, attention to detail, leadership, strategy, teamwork, safety protocols
+military_combat_advisor: advisory, communication, problem-solving, attention to detail, leadership, strategy, teamwork, safety protocols
+military_combat_instructor: training, communication, problem-solving, attention to detail, teaching, strategy, teamwork, safety protocols
+military_combat_recruiter: recruitment, communication, problem-solving, attention to detail, strategy, teamwork, public relations
+military_combat_linguist: linguistics, communication, problem-solving, attention to detail, language skills, teamwork, strategy, translation
+military_combat_intelligence_analyst: intelligence analysis, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_interrogator: interrogation, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_drone_operator: drone operation, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_weapons_specialist: weapons expertise, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_explosive_ordnance_disposal: EOD, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_tactician: strategy, communication, problem-solving, attention to detail, leadership, teamwork, safety protocols, military knowledge
+military_combat_trainer: training, communication, problem-solving, attention to detail, teaching, strategy, teamwork, safety protocols
+military_combat_recruiter: recruitment, communication, problem-solving, attention to detail, strategy, teamwork, public relations
+military_combat_scout: reconnaissance, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_sapper: military engineering, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_ranger: special operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_infantry: combat operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_artillery: artillery operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_armor: armored warfare, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_air_defense: air defense, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_signal: communications, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_intelligence: intelligence, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_medical: medical knowledge, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_logistics: logistics, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_engineering: engineering, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_police: law enforcement, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_space_operations: space operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_special_operations: special operations, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_cyber_operations: cyber operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_signal_corps: communications, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_intelligence_corps: intelligence, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_medical_corps: medical knowledge, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_logistics_corps: logistics, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_engineering_corps: engineering, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_police_corps: law enforcement, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_space_corps: space operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_cyber_corps: cyber operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_signal_officer: communications, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_intelligence_officer: intelligence, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_medical_officer: medical knowledge, communication, problem-solving, attention to detail, research, data analysis, strategy, teamwork
+military_combat_logistics_officer: logistics, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_engineering_officer: engineering, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_police_officer: law enforcement, communication, problem-solving, attention to detail, physical fitness, strategy, teamwork, safety protocols
+military_combat_space_officer: space operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
+military_combat_cyber_officer: cyber operations, communication, problem-solving, attention to detail, technical skills, strategy, teamwork, safety protocols
