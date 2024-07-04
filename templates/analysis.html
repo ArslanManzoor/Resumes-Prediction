@@ -154,8 +154,18 @@
                     },
                     success: function(data) {
                         $('#totalResumes').text(data.total_resumes);
-                        $('#totalMales').text(data.total_males);
-                        $('#totalFemales').text(data.total_females);
+                        if (gender) {
+                            if (gender === 'Male') {
+                                $('#totalMales').text(data.total_males);
+                                $('#totalFemales').text(0);
+                            } else if (gender === 'Female') {
+                                $('#totalMales').text(0);
+                                $('#totalFemales').text(data.total_females);
+                            }
+                        } else {
+                            $('#totalMales').text(data.total_males);
+                            $('#totalFemales').text(data.total_females);
+                        }
                     },
                     error: function(error) {
                         console.log(error);
